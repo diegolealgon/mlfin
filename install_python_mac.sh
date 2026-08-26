@@ -3,8 +3,6 @@
 # ML Finance
 # macOS setup script
 #
-# Download this file, then run it from Terminal:
-#   bash ~/Downloads/install_mac.sh
 #
 # ----------------------------------------------------------------------
 # What this creates
